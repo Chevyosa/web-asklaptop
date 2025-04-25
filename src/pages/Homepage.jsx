@@ -11,7 +11,7 @@ import vector from "../assets/Vector 32.png";
 import { useProduct } from "../context/ProductContext";
 
 export default function HomePage() {
-  const baseURL = "https://helping-crayfish-cheerful.ngrok-free.app/";
+  const baseURL = "https://adapted-crane-monthly.ngrok-free.app";
 
   const {
     setRecommendedProducts,
